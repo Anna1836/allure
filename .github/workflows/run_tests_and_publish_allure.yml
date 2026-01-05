@@ -38,7 +38,7 @@ jobs:
       - name: Deploy Allure report to GitHube Pages
         uses: peaseiris/actions-gh-pages@v3
         with:
-          github_token: ${{sekrets.GITHUB_TOKEN}}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./allure-report
 
         
