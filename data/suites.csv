@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jan 20 13:06:50 UTC 2026","Tue Jan 20 13:06:51 UTC 2026","1136","tests","test_form","","","","Неуспешная авторизация","Тестирование неуспешной авторизации на сайте The Internet HerokuApp"
+"passed","Tue Jan 20 13:06:48 UTC 2026","Tue Jan 20 13:06:49 UTC 2026","1523","tests","test_form","","","","Успешная авторизация с валидными данными","Тестирование успешной авторизации с валидными данными"
